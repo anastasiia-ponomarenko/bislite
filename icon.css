@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?jae5r0');
-  src:  url('fonts/icomoon.eot?jae5r0#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?jae5r0') format('truetype'),
-    url('fonts/icomoon.woff?jae5r0') format('woff'),
-    url('fonts/icomoon.svg?jae5r0#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?9m9on2');
+  src:  url('fonts/icomoon.eot?9m9on2#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?9m9on2') format('truetype'),
+    url('fonts/icomoon.woff?9m9on2') format('woff'),
+    url('fonts/icomoon.svg?9m9on2#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -12,7 +12,7 @@
 
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'icomoon' !important;
+  /*font-family: 'icomoon' !important;*/
   speak: never;
   font-style: normal;
   font-weight: normal;
@@ -25,6 +25,25 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-dashicons_arrow-up-alt2:before {
+.icon-clean-theme:before {
   content: "\e900";
+}
+.icon-dashicons_arrow-up-alt2:before {
+  content: "\e901";
+}
+.icon-download-psd:before {
+  content: "\e902";
+  color: #ffffff;
+}
+.icon-fully-layerd-psd:before {
+  content: "\e903";
+  color: #ffffff;
+}
+.icon-ready-for-coding:before {
+  content: "\e904";
+  color: #ffffff;
+}
+.icon-responsive-design:before {
+  content: "\e905";
+  color: #ffffff;
 }

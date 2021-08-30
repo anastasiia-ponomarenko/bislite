@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?jae5r0');
-  src:  url('fonts/icomoon.eot?jae5r0#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?jae5r0') format('truetype'),
-    url('fonts/icomoon.woff?jae5r0') format('woff'),
-    url('fonts/icomoon.svg?jae5r0#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?75p0ri');
+  src:  url('fonts/icomoon.eot?75p0ri#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?75p0ri') format('truetype'),
+    url('fonts/icomoon.woff?75p0ri') format('woff'),
+    url('fonts/icomoon.svg?75p0ri#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,3 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-dashicons_arrow-up-alt2:before {
-  content: "\e900";
-}
